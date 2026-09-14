@@ -41,7 +41,7 @@ export default defineConfig({
     author: "Souyer",
     description: "日日进化中！",
     social: {
-      github: { url: "https://github.com/Souyerliu", icon: "i-ri-github-fill" },
+      github: { url: "https://github.com/souyerz1440", icon: "i-ri-github-fill" },
       bilibili: {
         url: "https://space.bilibili.com/474896469",
         icon: "i-ri-bilibili-fill",
