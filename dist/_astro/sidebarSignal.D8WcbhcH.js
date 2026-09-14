@@ -1,1 +1,0 @@
-import{h as e}from"./solid.DhfFeTIY.js";var[t,n]=e(!1);function r(){n(e=>!e)}export{r as n,t};
